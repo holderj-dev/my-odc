@@ -10,19 +10,17 @@ export default function WorkCard(){
 
               <details class="px-6 py-4">
                 <summary class="font-bold text-2xl text-gray-800">Proinfo Games TM</summary>
-                <p>Foun.</p>
+                <p>Founder And CEO, Since 2019.</p>
               </details>
 
               <details class="px-6 py-4">
-                <summary class="font-bold text-2xl text-gray-800">EasyTech</summary>
-                <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-                  pavilions, award-winning fireworks and seasonal special events.</p>
+                <summary class="font-bold text-2xl text-gray-800">Proinfo Gaming</summary>
+                <p>Senior Gamer.</p>
               </details>
 
               <details class="px-6 py-4">
-                <summary class="font-bold text-2xl text-gray-800">Epcot Center</summary>
-                <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-                  pavilions, award-winning fireworks and seasonal special events.</p>
+                <summary class="font-bold text-2xl text-gray-800">Proinfo Gaming Center</summary>
+                <p>Manager In Charge.</p>
               </details>
 
             </div>
