@@ -8,12 +8,17 @@ import {
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { Projects} from './routes/projects';
 
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App/>,
+  },
+  {
+    path: "/",
+    element: <Projects/>,
   },
 ]);
 

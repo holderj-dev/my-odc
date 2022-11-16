@@ -1,10 +1,6 @@
 import React, { useState } from "react";
 
-export default function AuthorCard() {
-  const [isActive, setISActive] = useState({
-    active: true,
-    name: 'education'
-  });
+export default function AuthorCard({isActive, setISActive}) {
 
   function handleActive(e) {
     e.preventDefault();
