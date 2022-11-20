@@ -7,7 +7,10 @@ export function Contacts(){
         <>
         <Navbar/>
         <div>
-            <h1> These are my contacts </h1>
+        <details class="px-6 py-4">
+                <summary class="font-bold text-2xl text-gray-800">Contacts</summary>
+                <a href='https://github.com/holderj-dev/portfolio-react'>View On Github.</a>
+              </details>
         </div>
         </>
     );
