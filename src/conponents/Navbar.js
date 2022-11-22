@@ -7,10 +7,10 @@ export default function Navbar() {
   return (
     <>
       <div id="navbar">
-       <nav class="bg-[#909497] shadow">
+       <nav class="bg-[#a3b18a] shadow">
           <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
             <div class="relative flex h-16 justify-between">
-              <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
+              <div class="absolute inset-y-0 left-0 flex items-center bg-[#52796f] sm:hidden">
                 {/* <!-- Mobile menu button --> */}
                 <button type="button" class="
                     inline-flex
@@ -80,7 +80,7 @@ export default function Navbar() {
                       font-medium
                       text-gray-500
                       hover:border-gray-300 hover:text-gray-700
-                    ">Projects</a>
+                    ">projects</a>
                   <a href="blog" class="
                       inline-flex
                       items-center
@@ -124,7 +124,7 @@ export default function Navbar() {
 
               {/* <!-- Current: "bg-indigo-50 border-indigo-500 text-indigo-700", Default: "border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700" --> */}
              
-              <Link href="/projects" class="
+              <a href="/projects" class="
                   block
                   border-l-4 border-indigo-500
                   bg-indigo-50
@@ -134,7 +134,7 @@ export default function Navbar() {
                   text-base
                   font-medium
                   text-indigo-700
-                ">Projects</Link>
+                ">Projects</a>
               <a href="#" class="
                   block
                   border-l-4 border-transparent

@@ -3,9 +3,9 @@ import React from "react";
 export default function EducationalCard(){
     return(
         <>
-         <div id="education" class="bg-[#3EAEAEA] h-50 my-6 py-8 rounded-lg border-4">
+         <div id="education" class="bg-[#cad2c5] h-50 my-6 py-8 rounded-lg border-4">
                   <div class="flex justify-center">
-                <h3 class="border-4 w-25   border p-2 rounded-lg border-[#B2B2B2] bg-[#EB6440]">Education 🎓</h3>
+                <h3 class="border-4 w-25   border p-2 rounded-lg border-[#B2B2B2] bg-[#dad7cd]">Education 🎓</h3>
               </div>
 
               <details class="px-6 py-4">
