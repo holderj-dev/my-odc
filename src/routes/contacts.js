@@ -19,7 +19,7 @@ export function Contacts() {
               <div class="w-full lg:w-1/2 xl:w-6/12 px-4">
                 <div class="max-w-[570px] mb-12 lg:mb-0">
                   <span class="block mb-4 text-base text-primary font-semibold">
-                    Contact Us
+                    Contact JayE
                   </span>
                   <h2
                     class="
@@ -33,13 +33,16 @@ export function Contacts() {
                   xl:text-[40px]
                   "
                   >
-                    GET IN TOUCH WITH US
+                    GET IN TOUCH WITH JayE
                   </h2>
                   <p class="text-base text-body-color leading-relaxed mb-9">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                    eius tempor incididunt ut labore et dolore magna aliqua. Ut enim
-                    adiqua minim veniam quis nostrud exercitation ullamco
+                    Hi!!, Thanks For Your Reaching Out To Me, Your Messages Are Of High Value To Me, So Kindly Stay Tuned For A Reply.
+                    Peace!!
                   </p>
+                  <p1 class="text-base text-body-color leading-relaxed mb-9">
+                    Email@ holderjamese@gmail.com Or holderjmese@outlook.com
+                    Cell # +231-770-172-212
+                  </p1>
 
                 </div>
               </div>
